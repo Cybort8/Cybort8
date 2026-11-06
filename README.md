@@ -11,7 +11,7 @@
   </a>
 </p>
 
-## <picture><img src="https://github.com/Cybort8/cybort8/raw/main/assets/mdImages/about_me.gif" width="50px"></picture> **About me**
+## <picture><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50"></picture> **About me**
 
 - Ingeniero de sistemas y desarrollador de software en formación (10° semestre de Ingeniería de Sistemas + tecnólogo en Desarrollo de Software).
 - Experiencia en soporte TI dentro de una multinacional (Tecnoglass S.A.S.), combinando soporte técnico, análisis de sistemas y atención a usuarios.
@@ -19,7 +19,7 @@
 - Busco mi primer empleo como desarrollador full-time.
 - Portafolio web: [portafolio-keneth-rojas.vercel.app](https://portafolio-keneth-rojas.vercel.app/)
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>
 
 ### 💻 Languages
 
@@ -41,7 +41,7 @@
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-%23007ACC?style=for-the-badge&logo=windows&logoColor=white)
 
-## <img src="https://media.giphy.com/media/9Zx4Y8nS7wL5fZ6pM/giphy.gif" width="25"><b> GitHub Stats </b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> GitHub Stats </b>
 
 <div align="center">
 
