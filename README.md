@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hola, soy Cybort8 👋
 
-<!--
-**Cybort8/Cybort8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador apasionado por la tecnología y la creación de soluciones eficientes. 
 
-Here are some ideas to get you started:
+- 🔭 Actualmente estoy trabajando en proyectos personales y explorando nuevas tecnologías.
+- 💬 Pregúntame sobre desarrollo, código limpio y herramientas modernas.
+- 📫 Cómo contactarme: [Añade aquí tu correo o LinkedIn]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologías y Herramientas
+- **Lenguajes:** (Añade tus lenguajes principales, ej: Python, JavaScript, TypeScript, etc.)
+- **Herramientas:** Git, Docker, Linux, etc.
+
+---
+
+### 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cybort8&show_icons=true&theme=radical" alt="Cybort8's GitHub stats" />
+</p>
