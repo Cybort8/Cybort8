@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Cybort8.png?size=460" width="130" alt="Keneth Rojas" style="border-radius:50%" />
+  <img src="https://images.weserv.nl/?url=github.com/Cybort8.png&w=460&h=460&fit=cover&mask=circle" width="130" alt="Keneth Rojas" />
 </p>
 
 <h1 align="center"><b>Hi, I'm Keneth 👋</b></h1>
